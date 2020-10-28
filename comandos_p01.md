@@ -1,5 +1,5 @@
 # Comandos de la Práctica 01
-## Nombre(s) Apellido(s)
+## Luis Enrique Sánchez Lara
 
 # Parte I. 
 
